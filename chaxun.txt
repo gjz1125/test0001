@@ -1,1 +1,0 @@
-select * from 郭英豪 where ID = 1 ；
